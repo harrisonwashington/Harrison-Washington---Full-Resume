@@ -13,28 +13,41 @@
 **GitHub**: [harrisonwashington](https://github.com/harrisonwashington)
 
 ## whoami - Harrison Washington 
-I'm a Senior Technical Consultant for Washington-Systems LLC, based in Sacramento, CA. A methodical IT team member knowledgeable in computer hardware, software, networking, security, and web development. Capable of installing hardware, updating software and managing LAN systems. Skilled Technologist with experience configuring computers, servers, and peripheral devices to work within established company and security parameters. Adept at managing SaaS, OS permissions, users, groups, and file sharing. A Clear and open communicator with excellent planning and problem-solving skills. 
+Harrison Washington is a Senior Technical Consultant and owner of Washington-Systems LLC, based in Sacramento, CA. He has expertise in computer hardware, software, networking, security, and web development. He has experience in installing hardware, updating software, and managing LAN systems, as well as configuring computers, servers, and peripheral devices to work within established company and security parameters. Harrison has skills in managing SaaS, OS permissions, users, groups, and file sharing, and is known for his clear communication and excellent planning and problem-solving skills. Harrison has previously worked as an IT Support Engineer and an IT Support Specialist, where he gained experience in maintaining and administering virtualization servers, Windows servers, and O365, as well as configuring new employee desktop deployments, installing security software, and providing customer service and support to end users.
+
+## IT Consultant
+**Voxel Labs Inc.** [Voxelai.com](https://www.voxelai.com/) 
+Jan 2023 to Present 
+
+- Support IT Infrastructure (e.g. SSO platform, SaaS Vendors, Google Workspace, Network and Security systems etc.)
+- Device management including provisioning and managing Apple laptops
+- Overseeing the implementation and management of IT controls in compliance with SOC2 and ISO 27001
+- Implement, enhance and scale our SaaS systems with the goal of automating processes along the way
+- Help resolve tickets and escalations from for internal and external customers 
+- Improve documentation and processes to reduce repetitive tickets
+- Write highly maintainable scripts and code for linux device provisioning
+- Conduct technology compliance reviews to evaluate adherence to legal, regulatory, and internal company policy requirements
 
 ## Senior Technical Consultant & Owner
-**Washington-Systems LLC**
+**Washington-Systems LLC** [Washington-Systems.com](https://www.harrisonwashington.com/washington-systems.html)
 Jan 2022 to Present 
 
 - Cisco Meraki and Ubiquiti network WAN & LAN network design, test, build, and implementation.
 - Built DNS forwarding zones for customers on Google Cloud Platform and  Microsoft Azure.
 - Helped customers with assigning custom DNS name servers for web applications and websites.
-- Google Cloud Platform and  Microsoft Azure IAM user management.
 - Linux and Windows server installation, patching, updating, and upgrading.
 - Configuration, and installation of pfSense firewall solutions.
+- Google Cloud Platform and  Microsoft Azure IAM user management.
 - Google Workspace Administration.
 - Google Cloud Platform Administration.
-- Helped customers implement CIS Benchmark for Microsoft Windows, Apple macOS, Debian, CentOS
+- Helped customers implement CIS Benchmark for Microsoft Windows, Apple macOS, Debian, CentOS.
 
 ## Information Technology Support Engineer
-**Fivetran**
+**Fivetran** [Fivetran.com](https://www.fivetran.com/)
 August 2021 to May 2022
 
 - Worked with and provided support to various SaaS platforms including Google Workspace, GCP, Okta, Jamf Pro, Azure, and AWS, managing users and groups.
-- Configure and automated new employee desktop deployments for MacOS via Jamf Pro
+- Configured and automated new employee desktop deployments for MacOS via Jamf Pro
 - Troubleshot hardware and software related issues for all end users. 
 - Provided customer service, remote & on perm troubleshooting of computer hardware, Windows, macOS, and network connections. 
 - Maintained Cisco Meraki and Ubiquiti networks.
@@ -75,6 +88,7 @@ August 2021 to May 2022
        - Account creation
        - Secret key creation for new user account 
        - Account auditing 
+
 **Customer Service**
 - Remote/on Perm Trouble-shooting on computer hardware, Windows operating system, MacOS operating system, network connections, etc. 
 - Application training, documentation, and overviews 
@@ -141,6 +155,10 @@ August 2020 to August 2021
     - KVM
     - Hyper-V
 -   System Administration 
+	- Databases
+		- MySQL
+		- PostgreSQL
+		- MongoDB
 	-   Networking
 		-    Cisco Meraki
 		-    Ubiquiti
